@@ -1,0 +1,9 @@
+/* Basic styling for the popup */
+body {
+    font-family: sans-serif;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
